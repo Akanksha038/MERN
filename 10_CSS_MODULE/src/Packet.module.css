@@ -1,0 +1,7 @@
+.packet {
+  background-color: rgba(122, 6, 87, 0.53);
+  margin: 40px;
+  padding: 10px;
+  border: solid black 2px;
+  border-radius: 5px;
+}

@@ -1,0 +1,10 @@
+.heading {
+  color: cadetblue;
+}
+
+.para {
+  background-color: rgb(5, 45, 45);
+  font-size: larger;
+  font-style: oblique;
+  font-stretch: extra-condensed;
+}
